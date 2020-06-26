@@ -1,2 +1,2 @@
 # DeepLearning-Coursera
-assignments of deep learning courses
+assignments of deep-learning courses
